@@ -1,2 +1,1 @@
-# AI-Nova-Video
-Video Editor 
+Nova AI Video Editor - Free Web App
